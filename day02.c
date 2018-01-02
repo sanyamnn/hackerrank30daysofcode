@@ -44,7 +44,7 @@ int main() {
     scanf("%d",&tipPercent);
     scanf("%d",&taxPercent);
     total=mealCost+mealCost*tipPercent/100+mealCost*taxPercent/100;
-    totalCost=(int)total;
+    totalCost=round(total);
     printf("The total meal cost is %d dollars.",totalCost);
     return 0;
 }
