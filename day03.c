@@ -32,7 +32,8 @@ Sample Input 1
 24
 Sample Output 1
 
-Not Weird*/
+Not Weird
+https://www.hackerrank.com/challenges/30-conditional-statements/problem*/
 #inlude<stdio.h>
 int main(void){
 
